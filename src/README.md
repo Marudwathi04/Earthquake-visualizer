@@ -3,7 +3,6 @@
 **Aganitha Cognitive Solutions - Take Home Assignment**  
 **CONFIDENTIAL PROJECT**
 
----
 
 ## 👤 Candidate Information
 - **Name**: Marudwathi Kusuluru
@@ -12,17 +11,14 @@
 - **Phone**: 8125605852
 - **Position Applied**: Full Stack Developer
 
----
 
 ## 🚀 Live Deployment
 **Production URL**: https://earthquake-visualizer-marudwathi.vercel.app/
----
 
 ## 📋 Project Overview
 
 Interactive real-time earthquake visualization application built for **Casey**, a Geography Student who wants to visualize recent earthquake activity around the world to understand seismic patterns.
 
----
 
 ## ✨ Features Implemented
 
@@ -42,7 +38,6 @@ Interactive real-time earthquake visualization application built for **Casey**, 
 - ✅ **Error Handling** - Graceful error messages with retry option
 - ✅ **Loading States** - User-friendly loading indicators
 
----
 
 ## 🛠️ Technology Stack
 
@@ -68,7 +63,6 @@ Interactive real-time earthquake visualization application built for **Casey**, 
 - **Vercel** - Serverless deployment platform
 - Direct CLI deployment (no public repository)
 
----
 
 ## 📊 Data Source
 
@@ -84,7 +78,6 @@ Interactive real-time earthquake visualization application built for **Casey**, 
 - Last 7 Days: `all_week.geojson`
 - Last 30 Days: `all_month.geojson`
 
----
 
 ## 🧠 AI (LLM) Usage
 
@@ -108,7 +101,6 @@ Interactive real-time earthquake visualization application built for **Casey**, 
 - Iterative debugging and improvements
 - Best practices implementation
 
----
 
 ## 💻 Local Development Setup
 
@@ -197,7 +189,6 @@ Output will be in `dist/` folder.
 - Proper CSS height calculations
 - Tested on multiple screen sizes
 
----
 
 ## 📱 User Experience Features
 
@@ -216,7 +207,6 @@ Output will be in `dist/` folder.
 - Retry button for failed requests
 - Loading indicators during data fetch
 
----
 
 ## 🎯 Development Process
 
@@ -245,7 +235,6 @@ Output will be in `dist/` folder.
 - Deployed to Vercel
 - Verified live application
 
----
 
 ## 📈 Future Enhancements
 
@@ -258,7 +247,6 @@ If given more time, potential improvements:
 - Earthquake prediction trends
 - Social sharing features
 
----
 
 ## 🎓 Key Learnings
 
@@ -268,7 +256,6 @@ If given more time, potential improvements:
 4. **Performance Optimization** - Efficient rendering of large datasets
 5. **User-Centric Design** - Building for specific user persona (Casey)
 
----
 
 ## 👨‍💻 About the Developer
 
@@ -301,7 +288,6 @@ If given more time, potential improvements:
 - Google Cybersecurity - Coursera
 - AI-ML Hands-on Bootcamp - IIT Tirupati
 
----
 
 ## 📞 Contact Information
 
@@ -310,7 +296,6 @@ If given more time, potential improvements:
 - **LinkedIn**: [linkedin.com/in/marudwathi-kusuluru](https://linkedin.com/in/marudwathi-kusuluru-3771ba260)
 - **GitHub**: [github.com/Marudwathi04](https://github.com/Marudwathi04)
 
----
 
 ## 📄 Project Structure
 ```
@@ -328,7 +313,6 @@ earthquake-visualizer/
 └── README.md            # This file
 ```
 
----
 
 ## 🙏 Acknowledgments
 
@@ -337,20 +321,17 @@ earthquake-visualizer/
 - **Claude AI** - For development assistance
 - **Open Source Community** - React, Vite, Tailwind, Leaflet
 
----
 
 ## ⚖️ License & Confidentiality
 
 This project is developed as part of Aganitha Cognitive Solutions take-home assignment and is strictly confidential. It must not be shared publicly or on any social media platforms.
 
----
 
 **Built with ❤️ by Marudwathi Kusuluru**  
 **For Aganitha Cognitive Solutions**  
 **October 2025**
 ```
 
----
 
 ## 📹 **Step 5: Record Demo Video (3-5 min)**
 
@@ -383,7 +364,6 @@ Thank you for this opportunity!"
 2. **Or use**: OBS Studio (free download)
 3. **Upload**: YouTube (Unlisted) or Google Drive
 
----
 
 ## 📋 **Final Submission Checklist:**
 ```
